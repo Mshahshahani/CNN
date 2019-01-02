@@ -4,13 +4,8 @@
  * [Abstract]: Average of last 8 values
  * 
  * [Author]
- * October/10/2018 Original
-
  * 
  * [Function Detail]:
-
- * [Compile Option]:
- *   BDL:  For Cyber. (bdlpars -DBDL foo.c)
  *     C:  For C simulation with ANSI C compiler. (gcc -DC foo.c)
  * [Notice]:
  ****************************************************************/
